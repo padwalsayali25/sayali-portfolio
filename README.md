@@ -1,6 +1,6 @@
-# Akash Gaikwad — Portfolio
+# SAYALI PADWAL — Portfolio
 
-This is a minimal, responsive static portfolio template for Akash Gaikwad.
+This is a minimal, responsive static portfolio template for SAYALI PADWAL.
 
 How to use
 
