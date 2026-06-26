@@ -1,13 +1,39 @@
-# SAYALI PADWAL — Portfolio
+# Hi, I'm Sayali Padwal 👋
 
-This is a minimal, responsive static portfolio template for SAYALI PADWAL.
+## Software Developer | Java Backend Developer
 
-How to use
+M.Sc. Computer Science graduate with knowledge of Java, Spring Boot, Python, SQL, and Web Technologies. Passionate about building responsive web applications, backend solutions, and continuously learning new technologies.
 
-- Open `index.html` in a browser to preview the site.
-- Replace placeholder text, project descriptions, and email address in `index.html`.
-- Add your resume file and update the Resume link in `index.html`.
+## 🚀 Skills
 
-Deploy
+- Java
+- Spring Boot
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Hibernate
+- JDBC
+- Git & GitHub
 
-- You can deploy this as a static site using GitHub Pages, Netlify, or Vercel.
+## 💻 Projects
+
+### Portfolio Website
+- Responsive personal portfolio website
+- Technologies: HTML, CSS, JavaScript
+
+### Food Delivery Application
+- Full-stack web application
+- Technologies: Java, Spring Boot, SQL
+
+### Cat & Dog Classification
+- Machine Learning project using Python
+
+## 🌐 Portfolio
+
+https://padwalsayali25.github.io/sayali-portfolio/
+
+## 📫 Connect With Me
+
+LinkedIn: Add your LinkedIn link here
